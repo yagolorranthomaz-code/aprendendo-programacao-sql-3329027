@@ -1,2 +1,5 @@
 -- Crie uma nova tabela no banco de dados
-vou alterar essa tabela
+CREATE TABLE salario_base(
+id INTEGER PRIMARY KEY AUTOINCREMENT,
+nome TEXT,
+salario INTEGER);
